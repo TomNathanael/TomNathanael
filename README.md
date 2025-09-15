@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tom Nathanael Antoniraj</h1>
 <h3 align="center">A passionate Digital Forensics & Cyber Security Student. Projects I have Worked on are Below.</h3>
 
-<h2 align="left">👨‍💻 Projects: </h2> <hr>
+<h2 align="left">👨‍💻 Projects: </h2>
 
 - PHP, HTML, CSS, MySQL: <br> [Website Administrator System](https://github.com/borysrr/FitLab.git) <br>
 
