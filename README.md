@@ -7,7 +7,7 @@
 
 - C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
 
-- Java, CSS: <br>[Bank System](https://github.com/TomNathanael/Bank-System.git) <br>
+- Java: <br>[Bank System](https://github.com/TomNathanael/Bank-System.git) <br>
 
 - MySQL: <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
 
