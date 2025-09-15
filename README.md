@@ -11,6 +11,8 @@
 
 - MySQL: <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
 
+- HTML, CSS, JavaScript: <br>[HTML Mini Project](https://github.com/TomNathanael/Pizza-HTML-Mini-Project) <br>
+
 
 <h2 align="left">Languages and Tools: 💻 </h2> <hr>
 
