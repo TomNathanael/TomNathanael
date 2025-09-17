@@ -3,7 +3,7 @@
 
 <h2 align="left">👨‍💻 Projects: </h2>
 
-- HTML: <b> First Website, very simple TV Show Website Project. </b> <br>[TV Show HTML Project](https://github.com/TomNathanael/Simple-Fandom-TV-Show-Website.git) <br>
+- HTML: <b> Fandom Website, Simple TV Show Website Project. </b> <br>[TV Show HTML Project](https://github.com/TomNathanael/Simple-Fandom-TV-Show-Website.git) <br>
 
 - PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP config phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
 
