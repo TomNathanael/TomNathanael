@@ -3,6 +3,8 @@
 
 <h2 align="left">👨‍💻 Projects: </h2>
 
+- HTML: <b> First Website, very simple TV Show Website Project. </b> <br>[TV Show HTML Project](https://github.com/TomNathanael/Simple-Fandom-TV-Show-Website.git) <br>
+
 - PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP config phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
 
 - C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <b> Lefty & Righty, Four Chairs In-Depth analysis Project. </b> <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
@@ -12,8 +14,6 @@
 - MySQL: <b> Student, College Data System. </b> <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
 
 - HTML, CSS, JavaScript: <b> Simple Restaurant Website. </b> <br>[Restaurant Mini Project](https://github.com/TomNathanael/Pizza-HTML-Mini-Project) <br>
-
-- HTML: <b> First Website, very simple TV Show Website Project. </b> <br>[TV Show HTML Project](https://github.com/TomNathanael/Simple-Fandom-TV-Show-Website.git) <br>
 
 
 <h2 align="left">Languages and Tools: 💻 </h2> <hr>
