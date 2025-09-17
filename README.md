@@ -9,6 +9,8 @@
 
 - C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <b> Lefty & Righty, Four Chairs In-Depth analysis Project. </b> <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
 
+- Java: <b> Text-Based Menu Driven Program. </b> <br>[Menu Driven Program](https://github.com/TomNathanael/Text-Based-Menu.git) <br>
+
 - Java: <b> Simple Lodge and Withdraw Money Bank System. </b> <br>[Bank System](https://github.com/TomNathanael/Bank-System.git) <br>
 
 - MySQL: <b> Student, College Data System. </b> <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
