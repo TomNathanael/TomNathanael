@@ -13,6 +13,8 @@
 
 - HTML, CSS, JavaScript: <b> Simple Restaurant Website. </b> <br>[Restaurant Mini Project](https://github.com/TomNathanael/Pizza-HTML-Mini-Project) <br>
 
+- HTML: <b> First Website, very simple TV Show Website Project. </b> <br>[TV Show HTML Project](https://github.com/TomNathanael/Simple-Fandom-TV-Show-Website.git) <br>
+
 
 <h2 align="left">Languages and Tools: 💻 </h2> <hr>
 
