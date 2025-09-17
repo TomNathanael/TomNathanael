@@ -3,7 +3,7 @@
 
 <h2 align="left">👨‍💻 Projects: </h2>
 
-- PHP, HTML, CSS, MySQL: <br> [Website Administrator System](https://github.com/borysrr/FitLab.git) <br>
+- PHP, HTML, CSS, MySQL: <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
 
 - C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
 
