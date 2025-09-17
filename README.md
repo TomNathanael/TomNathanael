@@ -11,7 +11,7 @@
 
 - Java: <b> Text-Based Menu Driven Program. </b> <br>[Menu Driven Program](https://github.com/TomNathanael/Text-Based-Menu.git) <br>
 
-- Java: <b> Simple Lodge and Withdraw Money Bank System. </b> <br>[Bank System](https://github.com/TomNathanael/Bank-System.git) <br>
+- Java, MySQL Diagrams and 1:1 Relationship/ Links: <b> Simple Lodge and Withdraw Money Bank System. </b> <br>[Bank System](https://github.com/TomNathanael/Bank-System.git) <br>
 
 - MySQL: <b> Student, College Data System. </b> <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
 
