@@ -7,6 +7,8 @@
 
 - PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP configuration with phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
 
+- Python: <b> Completed Challenges in CrytoHack using Python. </b> <br>[CryptoHack Solutions](https://github.com/TomNathanael/CryptoHack-Solutions.git) <br>
+
 - C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <b> Lefty & Righty, Four Chairs In-Depth analysis Project. </b> <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
 
 - Java: <b> Text-Based Menu Driven Program. </b> <br>[Menu Driven Program](https://github.com/TomNathanael/Text-Based-Menu.git) <br>
