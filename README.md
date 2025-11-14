@@ -5,19 +5,19 @@
 
 - Python: <b> Coursera Python, (Some Code). </b> <br>[Python Crash Course](https://github.com/TomNathanael/Google-Crash-Course.git) <br>
 
-- Python: <b> Completed Challenges in CrytoHack using Python. </b> <br>[CryptoHack Solutions](https://github.com/TomNathanael/CryptoHack-Solutions.git) <br>
-
-- PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP configuration with phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
-
-- C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <b> Lefty & Righty, Four Chairs In-Depth analysis Project. </b> <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
+- Python: <b> Completed Challenges in CryptoHack using Python. </b> <br>[CryptoHack Solutions](https://github.com/TomNathanael/CryptoHack-Solutions.git) <br>
 
 - Java: <b> Text-Based Menu Driven Program. </b> <br>[Menu Driven Program](https://github.com/TomNathanael/Text-Based-Menu.git) <br>
 
 - Java, MySQL Diagrams and 1:1 Relationship/ Links: <b> Simple Lodge and Withdraw Money Bank System. </b> <br>[Bank System](https://github.com/TomNathanael/Bank-System.git) <br>
 
-- MySQL: <b> Student, College Data System. </b> <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
+- PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP configuration with phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
 
 - HTML, CSS, JavaScript: <b> Simple Restaurant Website. </b> <br>[Restaurant Mini Project](https://github.com/TomNathanael/Pizza-HTML-Mini-Project) <br>
+
+- C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <b> Lefty & Righty, Four Chairs In-Depth analysis Project. </b> <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
+
+- MySQL: <b> Student, College Data System. </b> <br>[Database System Project](https://github.com/TomNathanael/MySQL-Database-System.git) <br>
 
 
 <h2 align="left">Languages and Tools: 💻 </h2> <hr>
