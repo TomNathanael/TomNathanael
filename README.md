@@ -3,11 +3,11 @@
 
 <h2 align="left">👨‍💻 Projects: </h2>
 
-- HTML: <b> Fandom Website, Simple TV Show Website Project. </b> <br>[TV Show HTML Project](https://github.com/TomNathanael/Simple-Fandom-TV-Show-Website.git) <br>
-
-- PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP configuration with phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
+- Python: <b> Coursera Python, (Some Code). </b> <br>[Python Crash Course](https://github.com/TomNathanael/Google-Crash-Course.git) <br>
 
 - Python: <b> Completed Challenges in CrytoHack using Python. </b> <br>[CryptoHack Solutions](https://github.com/TomNathanael/CryptoHack-Solutions.git) <br>
+
+- PHP, HTML, CSS, BootStrap, Fonts, MySQL: <b> XAMPP configuration with phpMyAdmin working with Website. </b> <br> [Website Administrator System](https://github.com/TomNathanael/Website-w-Administrator-Viewing.git) <br>
 
 - C++, POSIX Threads, ThreadMentor, Linux-Mageia8, Makefile: <b> Lefty & Righty, Four Chairs In-Depth analysis Project. </b> <br> [Dining Philosopher Problem Simulation](https://github.com/TomNathanael/Dining-Philosophers-Simulation.git) <br>
 
